@@ -18,7 +18,7 @@ body {
 
 /* ===== Cabeçalho ===== */
 .cabecalho {
-    background-color: #A0521A;  /* âmbar escuro — texto branco tem contraste AA */
+    background-color: #7B9B69;  /* âmbar escuro — texto branco tem contraste AA */
     color: #FFFFFF;
     text-align: center;
     padding: 24px 16px;
@@ -52,7 +52,7 @@ main {
 }
 
 blockquote {
-    border-left: 4px solid #A0521A;
+    border-left: 4px solid #7B9B69;
     margin: 0 0 16px;
     padding: 8px 16px;
     background-color: #FDEEDC;
@@ -105,7 +105,7 @@ blockquote {
 }
 
 .tabela-cardapio thead {
-    background-color: #A0521A;
+    background-color: #7B9B69;
     color: #FFFFFF;
 }
 
